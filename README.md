@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dayallnash, a web developer in Plymouth, UK
+- 👋 Hi, I’m @dayallnash, a DevOps Engineer in Plymouth, UK
 - 👀 I’m interested in Symfony/PHP/K8s/Ecommerce/Fediverse
 - 🌱 I’m currently learning ActivityPub/Fediverse
 - 💞️ I’m not looking to collaborate right now - but a new project is coming soon
