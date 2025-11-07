@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @dayallnash, a DevOps Engineer in Plymouth, UK
 - 👀 I’m interested in K8s/Fediverse
 - 🌱 I’m currently learning ActivityPub/Fediverse
-- 📫 How to reach me: Github.com/dayallnash or @dale@mastodon.social
